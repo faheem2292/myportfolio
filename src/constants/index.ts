@@ -57,7 +57,7 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "Next.js 14",
+    skill_name: "Next.js 15",
     image: "next.png",
     width: 80,
     height: 80,
@@ -162,7 +162,7 @@ export const FRONTEND_SKILL = [
     height: 80,
   },
   {
-    skill_name: "Next.js 14",
+    skill_name: "Next.js 15",
     image: "next.png",
     width: 80,
     height: 80,
